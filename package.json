@@ -1,0 +1,12 @@
+{
+  "name": "async-landing-ptzi",
+  "version": "1.0.0",
+  "description": "Landing page designed to enhance asynchronous functionality in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
